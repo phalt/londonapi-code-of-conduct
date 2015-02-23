@@ -32,11 +32,11 @@ Harassment includes offensive verbal comments related to gender, sexual orientat
 
 Participants asked to stop any harassing behavior are expected to comply immediately.
 
-Exhibitors, sponsors or vendor booths, or similar activities associated with the user group in anyway at all are also subject to the anti-harassment policy. In particular and if applicable, any exhibitors at the event should not use sexualized images, activities, or other material. No booth staff (including volunteers) should not use sexualized clothing/uniforms/costumes, or otherwise create a sexualized environment.
+Exhibitors, sponsors or vendor booths, or similar activities associated with the user group in anyway at all are also subject to the anti-harassment policy. In particular and if applicable, any exhibitors at the event should not use sexualized images, activities, or other material. All booth staff (including volunteers) should not use sexualized clothing/uniforms/costumes, or otherwise create a sexualized environment.
 
 Be careful in the words that you choose. Remember that sexist, racist, and other exclusionary jokes can be offensive to those around you. Excessive swearing and offensive jokes are not appropriate for LondonAPI.
 
-If a participant engages in behavior that violates this code of conduct, the user group organisers may take any action they deem appropriate, including warning the offender or expulsion from the user group with no refund.
+If a participant engages in behavior that violates this code of conduct, the user group organisers may take any action they deem appropriate, including warning the offender or expulsion from the user group. Additionally, no refund will be given to the offender for any tickets that may have been purchased to attend the event.
 
 ## Contact Information
 
@@ -55,7 +55,7 @@ If you feel like you are being harassed or feel uncomfortable and would like to 
 
 (This procedure has been adopted from the Ada Initiative's guide titled "[Conference anti-harassment/Responding to Reports](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports)".)
 
-1\. Keep in mind that all LondonAPI staff will be pointed out at the beginning of the event and should be in identifying uniform. The staff will also be prepared to handle the incident. All of our staff are informed of the this code of conduct policy and guide
+1\. Keep in mind that all LondonAPI staff will be pointed out at the beginning of the event. The staff will also be prepared to handle the incident. All of our staff are informed of the this code of conduct policy and guide
 for handling harassment at the conference.
 
 2\. Report the harassment incident (preferably in writing) to a staff member. All reports
