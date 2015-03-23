@@ -55,11 +55,11 @@ If you feel like you are being harassed or feel uncomfortable and would like to 
 
 (This procedure has been adopted from the Ada Initiative's guide titled "[Conference anti-harassment/Responding to Reports](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports)".)
 
-1\. Keep in mind that all LondonAPI staff will be pointed out at the beginning of the event. The staff will also be prepared to handle the incident. All of our staff are informed of the this code of conduct policy and guide
+1\. Keep in mind that all LondonAPI staff will be pointed out at the beginning of the event. The staff will also be prepared to handle the incident. All of our staff are informed of this code of conduct policy and guide
 for handling harassment at the conference.
 
 2\. Report the harassment incident (preferably in writing) to a staff member. All reports
-are confidential. Please do not disclose public information about the incident until the staff have had sufficient time in which to address the situation. This is as much for your safety and protection as it is the other attendees.
+are confidential. Please do not disclose public information about the incident until the staff have had sufficient time in which to address the situation. This is as much for your safety and protection as it is for the other attendees.
 
 When reporting the event to staff, try to gather as much information as available but do not
 interview people about the incident. Staff will assist you in writing the report/collecting information.
